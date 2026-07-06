@@ -1,0 +1,58 @@
+<link rel="stylesheet" href="style.css">
+/* Định kiểu chung cho toàn bộ trang */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin: 0;
+}
+
+/* Tiêu đề trang */
+header {
+  background-color: #dbeafe;
+  padding: 20px;
+}
+
+/* Thanh điều hướng */
+nav {
+  background-color: #1e3a8a;
+  padding: 10px;
+}
+
+/* Nội dung chính */
+main {
+  background-color: #f8fafc;
+  font-size: 18px;
+  padding: 20px;
+}
+
+/* Chân trang */
+footer {
+  background-color: #cbd5e1;
+  padding: 15px;
+  text-align: center;
+}
+
+/* Các mục trong danh sách điều hướng */
+li {
+  display: inline-block;
+  width: 150px;
+}
+
+/* Tiêu đề cấp 1 */
+h1 {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", serif;
+  color: #1e3a8a;
+}
+
+/* Đoạn văn */
+p {
+  line-height: 1.6;
+  text-indent: 30px;
+}
+
+/* Liên kết trong thanh điều hướng */
+nav a {
+  color: white;
+  text-decoration: none;
+}
